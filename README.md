@@ -1,2 +1,3 @@
 # hello-world
-Just repo test
+
+Here I will be Creating, Adding, and Committing my sample codes
